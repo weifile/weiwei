@@ -18,9 +18,6 @@
 
 ## 这是第一个笔记事项
 `这里用来查看第一个笔记`
-<<<<<<< HEAD
-> 这里来查看每一下标识是否正确
-=======
 >>>>>>> 3d9c6cab8ffe1e5228f9cc6b727321ddd4037c4b
 
  再看看能不能同步更改了:
@@ -35,4 +32,3 @@ how are you
 lili is a myfather is a sistem:
 
 one two there your
->>>>>>> fa65d551fea283cd3737ec0d2da3473731c9363c
