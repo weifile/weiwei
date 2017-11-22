@@ -21,3 +21,14 @@
 >>>>>>> 3d9c6cab8ffe1e5228f9cc6b727321ddd4037c4b
 
  再看看能不能同步更改了:
+sudo scutil --set HostName
+- jkfd
+-
+kkfkd
+fjdkal
+这个一定要接受啊，如果不接受，会很累的。
+
+how are you
+lili is a myfather is a sistem:
+
+one two there your
