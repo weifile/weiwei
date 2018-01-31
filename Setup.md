@@ -18,17 +18,13 @@
 
 ## 这是第一个笔记事项
 `这里用来查看第一个笔记`
->>>>>>> 3d9c6cab8ffe1e5228f9cc6b727321ddd4037c4b
+>3d9c6cab8ffe1e5228f9cc6b727321ddd4037c4b
 
- 再看看能不能同步更改了:
-sudo scutil --set HostName
-- jkfd
--
-kkfkd
-fjdkal
-这个一定要接受啊，如果不接受，会很累的。
 
-how are you
-lili is a myfather is a sistem:
+#迅雷下载宝的下载目录
+现在升级为338 原来是323下载老是卡死或是没有速度，现在试试这个  下载无速度的听说只有3.3.2与3.3.6有速度
+https://www.jianguoyun.com/p/DQzsYAkQyqX4BRjktjs#
 
-one two there your
+更改快速访问的图标计算机
+\HKEY_CLASSES_ROOT\CLSID\{679f85cb-0220-4080-b29b-5540cc05aab6}\DefaultIcon 给一个图标文件地址就行
+[HKEY_LOCAL_MACHINE\SOFTWARE\WOW6432Node\Classes\CLSID\{679f85cb-0220-4080-b29b-5540cc05aab6}\DefaultIcon]
